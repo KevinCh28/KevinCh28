@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Kevin Chen, I'm a entreprejeur turned software engineer.
+### Hi there 👋 My name is Kevin Chen, I'm a entrepreneur turned software engineer.
 
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: kevinch28@gmail.com
