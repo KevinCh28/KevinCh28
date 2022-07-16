@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Kevin Chen, I'm a entrepreneur turned software engineer.
 
-- 🌱 I’m currently learning React hooks and TypeScript
+- 🌱 I’m currently learning React hooks, TypeScript, and Python
 - 📫 How to reach me: kevinch28@gmail.com
 - 😄 Pronouns: He/Him
 
