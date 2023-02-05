@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Kevin Chen, I'm a entrepreneur turned software engineer.
 
-- 🌱 I’m currently studying both TypeScript and Python, while also experimenting with OpenAI's ChatGPT. It is a fun and exciting time!
+- 🌱 I’m currently studying both TypeScript and Python, while also experimenting with OpenAI's API!
 - 📫 How to reach me: kevinch28@gmail.com
 - 😄 Pronouns: He/Him
 
