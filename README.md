@@ -1,8 +1,8 @@
 ### Hi there 👋 My name is Kevin Chen, I'm a entrepreneur turned software engineer.
 
-- 🌱 I’m currently studying both TypeScript and Python, while also experimenting with OpenAI's API!
+- 🌱 I’m currently exploring Next.js.
 - 📫 How to reach me: kevinch28@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him/His
 
 <!-- <a href="https://github.com/JonJWong/JWong-Eats" target="_blank" >Pet Rehome</a> - A full-stack application inspired by Petfinder where users can make post to rehome a pet and message other users using Ruby on Rails, PostgreSQL, React.js + Redux.
 <p align="center">
@@ -13,4 +13,5 @@
 <p align="center">
   <img src="https://media.giphy.com/media/rb46Dl0AReltUxR5ED/giphy.gif" alt="hoppers-gif"></img>
 </p>
+
  -->
