@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Kevin Chen, I'm a entrepreneur turned software engineer.
+### A guy with a laptop 💻
 
 - 🌱 I’m currently exploring Next.js.
 - 📫 How to reach me: kevinch28@gmail.com
